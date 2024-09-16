@@ -1,5 +1,5 @@
 ## USARTbasis
-Simple application in STM32 microcontroller to communicate by uart protocol with Laptop using USB - UART TTL Convertor
+Simple application for STM32 microcontroller to communicate by uart protocol with Laptop using USB - UART TTL Convertor
 
 ## USART1 configuration
 ![image](https://github.com/user-attachments/assets/510b4c74-506e-4d30-9a3f-c21ece9bbcf4)
