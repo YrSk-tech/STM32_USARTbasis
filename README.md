@@ -4,6 +4,8 @@ Simple application for STM32 microcontroller to communicate by uart protocol wit
 ## USART1 configuration
 ![image](https://github.com/user-attachments/assets/510b4c74-506e-4d30-9a3f-c21ece9bbcf4)
 
+## Clock configuration
+
 ## Hardware wiring
 ![image](https://github.com/user-attachments/assets/c07f565f-584b-4baa-b5c9-f9b83164849e)
 
