@@ -14,6 +14,10 @@ Simple application for STM32 microcontroller to communicate by uart protocol wit
 ## Termite terminal communication
 ![image](https://github.com/user-attachments/assets/a1a0ed7a-cb46-489c-aee5-e1b3f6f2bae6)
 
+## STM32CubeIde usart config 
+![image](https://github.com/user-attachments/assets/24e0cf24-6bb5-44f0-8279-7430cef39795)
+
+
 Microcontroller STM32F4VE
 
 Convertor USB - UART TTL CP2104
